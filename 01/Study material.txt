@@ -1,0 +1,9 @@
+Algoritmu analize
+https://www.youtube.com/watch?v=v4cd1O4zkGw
+https://www.youtube.com/watch?v=MyeV2_tGqvw
+
+https://www.geeksforgeeks.org/analysis-of-algorithms-set-1-asymptotic-analysis/
+https://www.geeksforgeeks.org/analysis-of-algorithms-set-2-asymptotic-analysis/
+https://www.geeksforgeeks.org/analysis-algorithms-big-o-analysis/
+
+
